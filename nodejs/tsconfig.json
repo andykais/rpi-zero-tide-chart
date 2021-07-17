@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "sourceMap": true,
+
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "alwaysStrict": true,
+    "strictPropertyInitialization": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2017"
+  },
+  "include": ["src/**/*.ts"]
+}
